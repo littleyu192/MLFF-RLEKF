@@ -1,0 +1,32 @@
+
+
+# model file
+*.pt
+*.dat
+*.so
+src/bin/*
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*__pycache__/
+*pytest_cache/
+
+# object file
+*.o
+*.mod
+# exec file
+*.r
+*.x
+# lib file
+*.a
+# model file
+*.pt
+*.dat
+# generated file
+*.npy
+*.csv
+*.log
+# python intermediate files
+*.py[cod]
+*__pycache__/
+*pytest_cache/
